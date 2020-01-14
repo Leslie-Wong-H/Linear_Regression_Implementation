@@ -157,7 +157,12 @@ plt.show()
 # plt.savefig('linearRegression.png', format='png')
 ```
 
+<br>
+
 <i>.ipynb version ([naiveLinearRegression.ipynb](naiveLinearRegression.ipynb))<i>
+
+<br>
+
 ```python3
 #%%
 
